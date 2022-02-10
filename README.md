@@ -3,7 +3,9 @@
 ## About me
 <table>
   <tr>
+    
     <td valign="center">
+      
       <div>🎓 A graduate of <strong>Software Engineer</strong> from <strong>FPT University</strong>.</div>
       <div>🌱 I am currently learning <strong>JavaScript</strong> and also interested in <strong>Web Development</strong>.</div>
       <div>🎯 My goal is to contribute to as many <strong>Open Source Project</strong> as possible.</div>
@@ -41,7 +43,7 @@
 
 ## Experience 📈
 <ul>
-  <li>Worked at <a href="https://www.ptnglobalcorp.com/">PTN Global Corp</a></li>
+  <li>Worked at <strong>PTN Global Corp</strong></li>
   <li>Interned at <strong>FPT Software</strong></li>
   <li>Have experience with <strong>ReactJS, Angular, ExpressJS, .NET Core, SCSS</strong></li>
 </ul>
