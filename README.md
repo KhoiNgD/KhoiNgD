@@ -4,8 +4,7 @@
 <table>
   <tr>
     
-    <td valign="center">
-      
+    <td valign="center">      
       <div>🎓 A graduate of <strong>Software Engineer</strong> from <strong>FPT University</strong>.</div>
       <div>🌱 I am currently learning <strong>JavaScript</strong> and also interested in <strong>Web Development</strong>.</div>
       <div>🎯 My goal is to contribute to as many <strong>Open Source Project</strong> as possible.</div>
