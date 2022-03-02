@@ -22,7 +22,7 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KhoiNgD&theme=dracula&hide_border=true) -->
 
 ## Connect With Me 
-<a href="https://twitter.com/nd_khoi"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<!-- <a href="https://twitter.com/nd_khoi"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> -->
 <a href="https://www.linkedin.com/in/ndkhoii/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 ## Technologies 💻
