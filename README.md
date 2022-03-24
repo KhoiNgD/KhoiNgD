@@ -1,27 +1,29 @@
-# Hi, I'm Khoi 👋
+<!-- 
+  Github profile reference: https://github.com/itsZed0/itsZed0 
+  Tutorial: https://www.sitepoint.com/github-profile-readme/
+-->
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=KhoiNgD&style=flat-square&color=blue" alt=""/></p>
+<h1 align="center">Hi, I'm Khoi</h1>
 
-## About me
-<table>
-  <tr>
-    
-    <td valign="center">      
-      <div>🎓 A graduate of <strong>Software Engineer</strong> from <strong>FPT University</strong>.</div>
-      <div>🌱 I am currently learning <strong>JavaScript</strong> and also interested in <strong>Web Development</strong>.</div>
-      <div>✨ I love to build projects and explore how things work behind the scene.</div>
-    </td>
-  <!--   <td>
-      # this is my daily.dev card, you can edit this accordingly
-      <a href="https://app.daily.dev/Astrodevil">
-        <img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/>          
-      </a>
-    </td> -->
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-  </tr>
-</table>
+## About me :woman_technologist:
+Not much information to share, but one thing’s for certain: I love building software!
+- 🎓 A graduate of <strong>Software Engineer</strong> from <strong>FPT University</strong>.
+- ✨ I love to build projects and explore how things work behind the scene.
+- 🌱 I am currently building an <a href="https://github.com/KhoiNgD/ecommerce">E-commerce</a> web app with <strong>ReactJS, ExpressJS</strong>.
+- 🔨 Visit my frontend challanges at <a href="https://www.frontendmentor.io/profile/KhoiNgD">Frontend Mentor</a>.
+
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KhoiNgD&theme=dracula&hide_border=true) -->
 
-## Connect With Me 
+## My Stats 🔥
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KhoiNgD&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoiNgD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect With Me 📫
 <!-- <a href="https://twitter.com/nd_khoi"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> -->
 <a href="https://www.linkedin.com/in/ndkhoii/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
